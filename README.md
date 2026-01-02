@@ -1,5 +1,5 @@
 # AlphaQ Hardware's Business Intelligence Reports
-Introduction
+# Introduction
 AlphaQ Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
 
 These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
@@ -66,13 +66,13 @@ Insights: Japan and New Zealand showed the highest profit margins, while Germany
 Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
 
 # Overall Insights
-Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
-Top 10 Products: Continued strong performance of key products from 2020 to 2021.
-Market Performance vs. Target: Insights into market performance relative to sales goals.
-New Products in 2021: Successful introduction of new products with strong sales.
-Top 5 Countries in 2021: Identification of leading markets with robust sales figures.
-Top and Bottom 5 Products: Focus on both high-performing and underperforming products for strategic adjustments.
-Division Level Report: Impressive growth in the PC division, with substantial revenue increases.
-Profit and Loss Reports: Detailed assessment of financial health across various dimensions.
-Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies.
-Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making.
+* Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
+* Top 10 Products: Continued strong performance of key products from 2020 to 2021.
+* Market Performance vs. Target: Insights into market performance relative to sales goals.
+* New Products in 2021: Successful introduction of new products with strong sales.
+* Top 5 Countries in 2021: Identification of leading markets with robust sales figures.
+* Top and Bottom 5 Products: Focus on both high-performing and underperforming products for strategic adjustments.
+* Division Level Report: Impressive growth in the PC division, with substantial revenue increases.
+* Profit and Loss Reports: Detailed assessment of financial health across various dimensions.
+* Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies.
+* Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making.
