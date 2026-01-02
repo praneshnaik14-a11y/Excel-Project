@@ -1,10 +1,10 @@
-# Excel-Project
+# AlphaQ Hardware's Business Intelligence Reports
 Introduction
 AlphaQ Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
 
 These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
 
-Problem Statement
+# Problem Statement
 To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
 Sales Analysis
@@ -17,7 +17,7 @@ Top 5 Sales Countries in 2021: Identify the five countries with the highest sale
 Sales Analysis Reports
 Top 10 Products with Sales Increase
 
-Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
+# Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 Division Sales Report
 
 Insights:
@@ -44,26 +44,27 @@ Yearly Profit and Loss (P&L) Report: Financial performance breakdown for each fi
 Quarterly Profit and Loss (P&L) Comparison: Financial performance trends throughout the year.
 Market-Specific Profit and Loss (P&L) Report: Performance breakdown for each market.
 Quarterly Gross Margin Percentage (GM%) by Location: Profitability view by geographic area.
-Financial Analysis Reports
+
+#Financial Analysis Reports
 Customer Net Sales Performance Report
-
 Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+
 Market Performance vs. Sales Targets Comparison
-
 Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+
 Yearly Profit and Loss (P&L) Report
-
 Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+
 Quarterly Profit and Loss (P&L) Comparison
-
 Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
+
 Market-Specific Profit and Loss (P&L) Report
-
 Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
-Quarterly Gross Margin Percentage (GM%) by Location
 
+Quarterly Gross Margin Percentage (GM%) by Location
 Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
-Overall Insights
+
+# Overall Insights
 Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
 Top 10 Products: Continued strong performance of key products from 2020 to 2021.
 Market Performance vs. Target: Insights into market performance relative to sales goals.
